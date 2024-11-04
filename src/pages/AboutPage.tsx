@@ -25,7 +25,7 @@ export function AboutPage() {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
                   <img 
-                    src="https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" 
+                    src="https://i.ibb.co/HPzw9mf/Daan-van-Oploo-5.png" 
                     alt="Daan Van Oploo" 
                     className="rounded-2xl shadow-lg"
                   />
